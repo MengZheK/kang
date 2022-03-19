@@ -28,10 +28,7 @@
   --btn-box-shadow: #eaeaea;
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(
-    circle,
-    url(https://www.onlychen.cn/bing.php) top left no-repeat;,
-    rgb(46, 35, 35) 100%);
+  --sidebar-bg: url(https://www.onlychen.cn/bing.php) top left no-repeat;
   --nav-cursor-color: #ffffff;
 
   /* Topbar */
