@@ -13,7 +13,7 @@ title: OneV's Den
 tagline: 上善若水，人淡如菊
 description: >-
     上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。
-url: 'https://onevcat.com'
+url: 'https://mengzhek.github.io'
 author: 王巍 (onevcat)
 avatar: /assets/images/avatar.jpg
 
@@ -39,7 +39,7 @@ google_site_verification: 1-1ZlHoRvM0T2FqPbW2S-qLgYXN6rsn52kErlMPd_gw
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: '/kang'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Tokyo
