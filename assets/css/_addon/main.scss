@@ -81,7 +81,7 @@ $sidebar-display: "sidebar-display";
   overflow-y: auto;
   width: $sidebar-width-medium;
   z-index: 99;
-  background: url(https://www.onlychen.cn/bing.php) top left no-repeat;
+  background: var(--sidebar-bg);
   a {
     @include sidebar-links;
   }
